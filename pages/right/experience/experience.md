@@ -54,7 +54,7 @@ experience:
 
   - date: 2000 - 2016
     role: Mechanikai Műszerész
-    company: 77 Elektronika Kft. / GE Tungsram
+    company: GE Tungsram / 77 Elektronika Kft.
     years: 4
     animation: fadeIn
     description: "Orvostechnikai eszközök összeszerelése, finommechanikai javítások."
