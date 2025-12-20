@@ -1,6 +1,19 @@
 home:
   alias: '/left'
 
+# --- ÚJ RÉSZ: Többnyelvűség beállítása ---
+languages:
+  supported:
+    - en
+    - hu
+  default_lang: en        # Az Angol az alapértelmezett (Profi!)
+  include_default_lang: false # Az angol URL tiszta marad (pl. domain.com/), nem lesz domain.com/en/
+  translations: true      # Fordítások engedélyezése
+  http_accept_language: true # IP/Böngésző nyelv alapján dönt (hu -> hu, minden más -> en)
+  override_locale: true
+  session_store_active: true # Megjegyzi, ha a látogató nyelvet váltott
+# -----------------------------------------
+
 pages:
   theme: resume-nordic
   process:
@@ -10,7 +23,7 @@ pages:
     extra: true
 
 cache:
-  enabled: false
+  enabled: false   # Fejlesztés alatt jó a false, élesben majd állítsd true-ra!
   check:
     method: file
   driver: auto

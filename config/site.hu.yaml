@@ -1,0 +1,10 @@
+title: Gyöngyösi Gábor        # Magyar névsorrend, ékezetekkel
+default_lang: hu
+author:
+  name: Gyöngyösi Gábor
+description: 'Rendszerintegrátor | Open Source Fejlesztő | Hardver Specialista'
+metadata:
+  description: 'IT Rendszermérnök és Fejlesztő Önéletrajz'
+address:
+  - line: 'Budapest'
+  - line: 'Magyarország'      # Még ezt is honosíthatjuk :)
