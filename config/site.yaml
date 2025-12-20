@@ -24,5 +24,9 @@ address:
   - line: 'Hungary'
 contact:
   - line: "gyongyosigabor@gshoots.hu"
-  - line: "+36 50 105 4964"
-  - line: "@megvadulthangya"
+  # ...
+  # Itt jön a trükk: Ne csak simán a nevet írd, hanem add meg a teljes adatot!
+  - text: "@megvadulthangya"
+    url: "https://github.com/megvadulthangya"
+    icon: "github"  # Vagy "brands fa-github" ha pontos akarsz lenni
+    target: "_blank"
