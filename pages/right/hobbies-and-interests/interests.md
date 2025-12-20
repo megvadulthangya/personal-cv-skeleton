@@ -1,32 +1,26 @@
 ---
-title: Hobbies & Interests
+title: Érdeklődési kör
 date: '13:34 02/21/2014'
 
 interests:
-    - icon: camera-retro
-      text: Photography
+    - icon: terminal
+      text: Linux Ricing
       animation: fadeIn
-    - icon: person-hiking
-      text: Hiking
+    - icon: camera
+      text: Fotózás
       animation: fadeIn  
-    - icon: book-open-reader
-      text: Reading
-      animation: fadeIn   
-    - icon: music
-      text: Music
-      animation: fadeIn   
-    - icon: person-walking
-      text: Walking
-      animation: fadeIn    
-    - icon: dog
-      text: Dogs
+    - icon: microchip
+      text: Elektronika
       animation: fadeIn    
     - icon: gamepad
-      text: Games
-      animation: fadeIn  
-    - icon: masks-theater
-      text: Theatre
+      text: Gaming
       animation: fadeIn    
+    - icon: robot
+      text: AI Art
+      animation: fadeIn      
+    - icon: server
+      text: HomeLab
+      animation: fadeIn      
 
 taxonomy:
     category: right

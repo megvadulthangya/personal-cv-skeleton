@@ -18,4 +18,3 @@ feed:
     description: Resume Description
     limit: 10
 ---
-

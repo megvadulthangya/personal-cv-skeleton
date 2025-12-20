@@ -1,17 +1,22 @@
 ---
-title: Recognitions
+title: KOMPETENCIÁK (Soft Skills)
 date: 13:34 06/21/2014 
 
 recognitions:
-    - title: Remus Logo Design.
-      desc: Internal contest. One of the three finalists.
-      place: Universidad Antonio de Nebrija. Madrid
-      position: 1-3
+    - title: Hybrid Creative Mindset
+      desc: Mérnöki precizitás (DevOps) + Művészi látásmód (Fotó/AI).
+      place: Egyedülálló ötvözet
+      position: 1
       animation: fadeIn
-    - title: Vino de Toro Label Design.
-      desc: National contest. One of the 15 finalists.
-      place: Vino de Toro.
-      position: 2-15
+    - title: Rendszerszemlélet
+      desc: Nem elszigetelt hibákat javítok, hanem a teljes folyamatot optimalizálom.
+      place: Problem Solving
+      position: 2
+      animation: fadeIn  
+    - title: Radikális Autodidakta
+      desc: 20+ év önálló tanulás dokumentációkból és gyakorlatból (Learning-by-doing).
+      place: Lifelong Learning
+      position: 3
       animation: fadeIn  
 
 taxonomy:

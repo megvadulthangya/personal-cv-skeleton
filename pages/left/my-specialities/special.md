@@ -1,16 +1,19 @@
----
-title: MY SPECIALITIES
+------
+title: TECHNIKAI ARZENÁL
 date: 13:34 05/21/2014 
 specialities:
-    - icon: lightbulb
-      text: Logo Design
+    - icon: brain
+      text: GenAI & Local LLM Ops
       animation: fadeInDown
-    - icon: layer-group
-      text: Branding 
+    - icon: network-wired
+      text: Network & Security
       animation: fadeInUp
-    - icon: chart-line
-      text: Minimal Web Design
+    - icon: cloud-arrow-up
+      text: Cloud & DevOps
       animation: fadeInLeft
+    - icon: screwdriver-wrench
+      text: Hardware & Electronics
+      animation: fadeInRight
 taxonomy:
     category: left
 ---

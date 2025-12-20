@@ -1,13 +1,13 @@
-title: Lars Nordmann
-default_lang: en
+title: Gyöngyösi Gábor
+default_lang: hu
 author:
-  name: Lars Nordmann
-  email: demo@example.com
+  name: Gyöngyösi Gábor
+  email: gyongyosigabor@gshoots.hu
 taxonomies:
   - category
   - tag
 metadata:
-  description: 'Nord Resume is a clean, arctic-themed resume template for Grav CMS.'
+  description: 'IT Systems Integrator & Open Source Developer CV'
 summary:
   enabled: true
   format: short
@@ -17,13 +17,12 @@ redirects: null
 routes: null
 blog:
   route: /blog
-description: 'Senior Systems Architect'
-website: "github.com/megvadulthangya/grav-skeleton-resume-nordic-site"
+description: 'IT Systems Integrator | Open Source Developer | Hardware Specialist'
+website: "links.gshoots.hu"
 address:
-  - line: '123 Glacier Avenue'
-  - line: 'Arctic Circle,'
-  - line: 'Svalbard, 9170'
+  - line: 'Budapest'
+  - line: 'Hungary'
 contact:
-  - line: "lars.nordmann@example.com"
-  - line: "+1 555-0199"
-  - line: "@lars_nord_demo"
+  - line: "gyongyosigabor@gshoots.hu"
+  - line: "+36 50 105 4964"
+  - line: "@megvadulthangya"
