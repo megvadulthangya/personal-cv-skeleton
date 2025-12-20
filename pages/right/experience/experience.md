@@ -24,12 +24,12 @@ experience:
     animation: fadeIn
     description: "Fotós stúdió és generatív AI hibrid integrációja.<br><b>GenAI Pipeline:</b> Saját LoRA modellek tréningezése (Kohya_ss) Stable Diffusion XL-hez.<br><b>Workflow:</b> Sony Alpha RAW feldolgozás + AI Inpainting/Outpainting."
 
-  - date: 2008 - 2022
+  - date: 2008 - Cloud Migrációig
     role: Network & Virtualization Engineer
     company: "Early HomeLab (The Roots)"
     years: 14
     animation: fadeIn
-    description: "A mélyvíz. Rendszerintegráció az alapoktól.<br><b>Virtualization:</b> VMware ESXi klaszter üzemeltetése.<br><b>SecOps:</b> pfSense tűzfal építése (pfBlockerNG + Suricata IDS/IPS) - 'Bombabiztos' konfiguráció.<br><b>OS History:</b> ClarkConnect 4.3 -> ClearOS 5.2 szerverek üzemeltetése éveken át."
+    description: "A mai tudásom alapkövei (On-Premise Era).<br><b>Deep Networking:</b> pfSense tűzfal (pfBlockerNG + Suricata IDS/IPS) és VMware ESXi klaszter üzemeltetése.<br><b>Legacy Stack:</b> ClarkConnect / ClearOS szerverek, Wine-alapú Linux játékszerverek.<br><i>Ez a 14 év 'vas-közeli' tapasztalat teszi lehetővé, hogy a Cloud rendszereket is kernel szintig értem.</i>"
 
   - date: 2001 - 2007
     role: Operatív és IT Menedzser
