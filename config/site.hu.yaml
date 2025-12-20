@@ -1,4 +1,4 @@
-title: Gyöngyösi Gábor        # Magyar névsorrend, ékezetekkel
+title: Gyöngyösi Gábor
 default_lang: hu
 author:
   name: Gyöngyösi Gábor
@@ -7,4 +7,4 @@ metadata:
   description: 'IT Rendszermérnök és Fejlesztő Önéletrajz'
 address:
   - line: 'Budapest'
-  - line: 'Magyarország'      # Még ezt is honosíthatjuk :)
+  - line: 'Magyarország'
