@@ -3,54 +3,54 @@ title: KIEMELT PROJEKTEK & TAPASZTALAT
 date: 13:34 06/21/2014 
 
 experience:
-  - date: Jelenleg
+  - date: 2025 - Jelenleg
     role: Lead Developer & DevOps
     company: Manjaro Awesome Respin
-    years: 2024
+    years: 1
     animation: fadeIn
-    description: "Saját fejlesztésű operációs rendszer és automatizált build környezet.<br><b>DevOps:</b> GitHub Actions alapú CI/CD pipeline, automatikus csomagépítés és ISO publikálás (SourceForge).<br><b>Product:</b> Calamares installer integráció, skel alapú konfiguráció, PKGBUILD karbantartás.<br><b>UX/UI:</b> Egységes 'Nordic' design nyelv."
+    description: "Saját fejlesztésű operációs rendszer és CI/CD környezet.<br><b>DevOps:</b> GitHub Actions pipeline, automatikus ISO build és publikálás.<br><b>Product:</b> Calamares installer integráció, egyedi 'Nordic' UX/UI design.<br><b>Stack:</b> Arch Linux, Bash, Python, SourceForge API."
 
-  - date: Folyamatos
-    role: SysAdmin & SecOps
-    company: High-Performance Game Server Ops
-    years: 2023
+  - date: 2018 - Jelenleg
+    role: Game Server Ops & Linux Admin
+    company: "HomeLab to Oracle Cloud"
+    years: 7
     animation: fadeIn
-    description: "Közösségi játékszerverek (Enemy Territory) üzemeltetése Oracle Cloud-on.<br><b>Security:</b> DDoS védelmi stratégia (ServerArk), kernel-szintű UDP analízis és szűrés.<br><b>Infra:</b> Debian szerverek manuális keményítése (hardening), egyedi tűzfal szabályrendszer.<br><b>Scripting:</b> Szerveroldali admin eszközök fejlesztése Lua nyelven."
+    description: "High-performance játékszerverek üzemeltetése.<br><b>Linux + Wine (Headless):</b> Plutonium (BO2, MW3) és Xlabs (IW4x, IW6x) szerverek stabilizálása Linux környezetben.<br><b>Legacy Modernization:</b> Enemy Territory szerverek modernizálása és migrálása OCI felhőbe (2022).<br><b>Security:</b> DDoS védelem (ServerArk) és Kernel-level UDP szűrés."
 
-  - date: Folyamatos
+  - date: 2023 - Jelenleg
     role: Creative Technologist
     company: AI-Enhanced Studio Workflow
-    years: 2023
+    years: 2
     animation: fadeIn
-    description: "Fotós stúdió és generatív AI hibrid integrációja.<br><b>GenAI Pipeline:</b> Saját LoRA modellek tréningezése (Kohya_ss) Stable Diffusion XL-hez.<br><b>Hybrid:</b> Valós stúdiófotók és AI (Inpainting/Outpainting) ötvözése.<br><b>Tech:</b> Sony Alpha + Godox rendszer + Tethered capture."
+    description: "Fotós stúdió és generatív AI hibrid integrációja.<br><b>GenAI Pipeline:</b> Saját LoRA modellek tréningezése (Kohya_ss) Stable Diffusion XL-hez.<br><b>Workflow:</b> Sony Alpha RAW feldolgozás + AI Inpainting/Outpainting."
 
-  - date: Folyamatos
-    role: System Architect
-    company: Secure Homelab (Self-Hosted)
-    years: 2022
+  - date: 2008 - 2022
+    role: Network & Virtualization Engineer
+    company: "Early HomeLab (The Roots)"
+    years: 14
     animation: fadeIn
-    description: "Nagy rendelkezésre állású otthoni infrastruktúra.<br><b>Network:</b> Cloudflare Tunnels (Zero Trust) a biztonságos publikáláshoz.<br><b>Orchestration:</b> 15+ Docker konténer (Nextcloud, Nginx Proxy Manager, Uptime Kuma).<br><b>Privacy:</b> Hálózati szintű szűrés (Pi-hole) és titkosított DNS."
+    description: "A mélyvíz. Rendszerintegráció az alapoktól.<br><b>Virtualization:</b> VMware ESXi klaszter üzemeltetése.<br><b>SecOps:</b> pfSense tűzfal építése (pfBlockerNG + Suricata IDS/IPS) - 'Bombabiztos' konfiguráció.<br><b>OS History:</b> ClarkConnect 4.3 -> ClearOS 5.2 szerverek üzemeltetése éveken át."
 
   - date: 2001 - 2007
     role: Operatív és IT Menedzser
     company: Családi Vállalkozás
     years: 6
     animation: fadeIn
-    description: "Szállítmányozási cég teljes körű IT támogatása (Windows/Linux kliensek), hálózat kiépítése. Ügyfélkapcsolattartás angol nyelven."
+    description: "Szállítmányozási cég teljes körű IT támogatása (Windows/Linux kliensek), hálózat kiépítése."
 
   - date: 2013 - 2019
     role: Díszítő és Segédszínész
     company: Magyar Állami Operaház
     years: 6
     animation: fadeIn
-    description: "Komplex színpadi rendszerek működtetése, precíz csapatmunka élő előadások során. Nagyfokú fegyelem és stressztűrés."
+    description: "Komplex színpadi rendszerek működtetése, precíz csapatmunka élő előadások során."
 
   - date: 2000 - 2016
     role: Mechanikai Műszerész
     company: 77 Elektronika Kft. / GE Tungsram
     years: 4
     animation: fadeIn
-    description: "Orvostechnikai eszközök összeszerelése, finommechanikai javítások. Precíziós munkavégzés."
+    description: "Orvostechnikai eszközök összeszerelése, finommechanikai javítások."
 
 taxonomy:
     category: right

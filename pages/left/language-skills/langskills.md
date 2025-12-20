@@ -8,8 +8,8 @@ languages:
     level: 100
     animation: bounceIn
   - name: Angol
-    level_name: Erős Szakmai (C1)
-    level: 80  
+    level_name: "Full Professional R/W / Conversational"
+    level: 90
     animation: bounceIn
     
 taxonomy:
