@@ -8,7 +8,7 @@ languages:
     level: 100
     animation: bounceIn
   - name: Angol
-    level_name: "Full Professional R/W / Conversational"
+    level_name: "Reading: C2 / Speaking: B1"
     level: 90
     animation: bounceIn
     
