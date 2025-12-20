@@ -27,5 +27,5 @@ contact:
   - line: "+36 50 105 4964"
   - text: "@megvadulthangya"
     url: "https://github.com/megvadulthangya"
-    icon: "github"  # Vagy "brands fa-github" ha pontos akarsz lenni
+    icon: "brands fa-github"  # Vagy "brands fa-github" ha pontos akarsz lenni
     target: "_blank"
