@@ -22,8 +22,8 @@ experience:
     company: "HomeLab to Oracle Cloud"
     years: 7
     animation: fadeIn
-    description: "High-performance game server operations.<br><b>Linux + Wine (Headless):</b> Stabilizing Plutonium (BO2, MW3) and Xlabs (IW4x, IW6x) servers in Linux environments.<br><b>Legacy Modernization:</b> Modernizing Enemy Territory servers and migrating to OCI Cloud (2022).<br><b>Security:</b> DDoS mitigation (ServerArk) and Kernel-level UDP filtering."
-
+    description: "High-performance game server operations & streaming infrastructure.<br><b>Linux + Wine (Headless):</b> Stabilizing Plutonium and Xlabs servers in Linux environments.<br><b>Broadcasting Infra:</b> Self-hosted NGINX RTMP server and FFmpeg pipeline for bandwidth-optimized broadcasting.<br><b>Security & Legacy:</b> DDoS mitigation (ServerArk), Kernel-level UDP filtering, and Enemy Territory OCI cloud migration."
+    
   - date: 2023 - Present
     role: Creative Technologist
     company: AI-Enhanced Studio Workflow

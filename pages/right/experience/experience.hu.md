@@ -22,8 +22,8 @@ experience:
     company: "HomeLab to Oracle Cloud"
     years: 7
     animation: fadeIn
-    description: "High-performance játékszerverek üzemeltetése.<br><b>Linux + Wine (Headless):</b> Plutonium (BO2, MW3) és Xlabs (IW4x, IW6x) szerverek stabilizálása Linux környezetben.<br><b>Legacy Modernization:</b> Enemy Territory szerverek modernizálása és migrálása OCI felhőbe (2022).<br><b>Security:</b> DDoS védelem (ServerArk) és Kernel-level UDP szűrés."
-
+    description: "High-performance játékszerverek és streaming infrastruktúra.<br><b>Linux + Wine (Headless):</b> Plutonium és Xlabs játékszerverek stabilizálása Linux környezetben.<br><b>Broadcasting Infra:</b> Saját építésű NGINX RTMP szerver és FFmpeg pipeline a sávszélesség-optimalizált közvetítésért.<br><b>Security & Legacy:</b> DDoS védelem (ServerArk), Kernel-level UDP szűrés és Enemy Territory szerverek OCI felhőbe migrálása."
+    
   - date: 2023 - Jelenleg
     role: Creative Technologist
     company: AI-Enhanced Studio Workflow
