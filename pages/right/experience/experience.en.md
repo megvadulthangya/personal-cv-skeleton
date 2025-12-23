@@ -18,11 +18,11 @@ experience:
     description: "Custom Linux OS development with automated build environment.<br><b>DevOps:</b> GitHub Actions CI/CD pipeline, automated ISO building and publishing (SourceForge API).<br><b>Product:</b> Calamares installer integration, custom 'Nordic' UX/UI design.<br><b>Stack:</b> Arch Linux, Bash, Python."
 
   - date: 2018 - Present
-    role: Game Server Ops & Linux Admin
+    role: Game Server Ops & Technical Modder
     company: "HomeLab to Oracle Cloud"
     years: 7
     animation: fadeIn
-    description: "High-performance game server operations & streaming infrastructure.<br><b>Linux + Wine (Headless):</b> Stabilizing Plutonium and Xlabs servers in Linux environments.<br><b>Broadcasting Infra:</b> Self-hosted NGINX RTMP server and FFmpeg pipeline for bandwidth-optimized broadcasting.<br><b>Security & Legacy:</b> DDoS mitigation (ServerArk), Kernel-level UDP filtering, and Enemy Territory OCI cloud migration."
+    description: "High-performance game server engineering & broadcasting.<br><b>Legacy Modernization:</b> Maintaining 24/7 Enemy Territory [UPC] servers on OCI. Custom HD texture packs, <b>HD skin remastering (Exposure Blow Up)</b>, and map scripting fixes via GtkRadiant.<br><b>Stability Engineering:</b> Reverse-engineered crash causes in CoD:WaW/Plutonium environments. Developed custom bot configurations and optimization patches to stabilize server-side logic without official dev support.<br><b>Broadcasting Infra:</b> Self-hosted NGINX RTMP server and FFmpeg pipeline."
     
   - date: 2023 - Present
     role: Creative Technologist

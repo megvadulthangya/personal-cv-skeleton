@@ -18,11 +18,11 @@ experience:
     description: "Saját fejlesztésű operációs rendszer és CI/CD környezet.<br><b>DevOps:</b> GitHub Actions pipeline, automatikus ISO build és publikálás (SourceForge).<br><b>Product:</b> Calamares installer integráció, egyedi 'Nordic' UX/UI design.<br><b>Stack:</b> Arch Linux, Bash, Python."
 
   - date: 2018 - Jelenleg
-    role: Game Server Ops & Linux Admin
+    role: Game Server Ops & Technical Modder
     company: "HomeLab to Oracle Cloud"
     years: 7
     animation: fadeIn
-    description: "High-performance játékszerverek és streaming infrastruktúra.<br><b>Linux + Wine (Headless):</b> Plutonium és Xlabs játékszerverek stabilizálása Linux környezetben.<br><b>Broadcasting Infra:</b> Saját építésű NGINX RTMP szerver és FFmpeg pipeline a sávszélesség-optimalizált közvetítésért.<br><b>Security & Legacy:</b> DDoS védelem (ServerArk), Kernel-level UDP szűrés és Enemy Territory szerverek OCI felhőbe migrálása."
+    description: "Nagy teljesítményű játékszerver mérnökség és broadcasting.<br><b>Legacy Modernization:</b> 24/7 Enemy Territory [UPC] szerverek üzemeltetése OCI-n. Egyedi HD textúra csomagok, <b>HD skin remastering (Exposure Blow Up)</b> és térkép script javítások GtkRadianttal.<br><b>Stability Engineering:</b> Összeomlási okok visszafejtése (reverse engineering) CoD:WaW/Plutonium környezetben. Egyedi bot konfigurációk és optimalizációs patchek fejlesztése a szerveroldali stabilitásért, hivatalos support nélkül.<br><b>Broadcasting Infra:</b> Saját építésű NGINX RTMP szerver és FFmpeg pipeline."
     
   - date: 2023 - Jelenleg
     role: Creative Technologist
