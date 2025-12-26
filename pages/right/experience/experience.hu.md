@@ -59,10 +59,10 @@ experience:
     animation: fadeIn
     description: "Színpadi díszletek építése, bontása és logisztikai mozgatása (Raktár ↔ Színpad). Részvétel az élő előadások és próbák díszletváltásaiban, csapatmunka szoros időkeretek között."
 
-  - date: 2016.-
+  - date: 2016.- 
     role: Mechanikai Műszerész
     company: 77 Elektronika Kft.
-    years: 
+    years: 0.1
     animation: fadeIn
     description: "Orvostechnikai eszközök összeszerelése, finommechanikai javítások és precíziós minőségbiztosítás."
 
