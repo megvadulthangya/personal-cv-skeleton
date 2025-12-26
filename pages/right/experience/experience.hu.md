@@ -17,13 +17,20 @@ experience:
     animation: fadeIn
     description: "Saját fejlesztésű operációs rendszer és CI/CD környezet.<br><b>DevOps:</b> GitHub Actions pipeline, automatikus ISO build és publikálás (SourceForge).<br><b>Product:</b> Calamares installer integráció, egyedi 'Nordic' UX/UI design.<br><b>Stack:</b> Arch Linux, Bash, Python."
 
+  - date: 2019 - Jelenleg
+    role: Systems Architect & SecOps
+    company: "Hybrid Cloud & Zero Trust"
+    years: 6
+    animation: fadeIn
+    description: "Elosztott, konténerizált infrastruktúra tervezése és üzemeltetése.<br><b>Public Edge (OCI):</b> Latency-critical services (RTMP stream, Repo) natív Linuxon, kernel-level hardening.<br><b>Private Core (HomeLab):</b> 20+ Docker services (Grav, Nextcloud, Monitoring) Watchtower automatizációval.<br><b>Network Security:</b> Cloudflare Tunnel alapú biztonságos publikálás port-nyitás nélkül (Zero Trust)."
+
   - date: 2018 - Jelenleg
     role: Game Server Ops & Technical Modder
     company: "HomeLab to Oracle Cloud"
     years: 7
     animation: fadeIn
-    description: "Nagy teljesítményű játékszerver mérnökség és broadcasting.<br><b>Legacy Modernization:</b> 24/7 Enemy Territory [UPC] szerverek üzemeltetése OCI-n. Egyedi HD textúra csomagok, <b>HD skin remastering (Exposure Blow Up)</b> és térkép script javítások GtkRadianttal.<br><b>Stability Engineering:</b> Összeomlási okok visszafejtése (reverse engineering) CoD:WaW/Plutonium környezetben. Egyedi bot konfigurációk és optimalizációs patchek fejlesztése a szerveroldali stabilitásért, hivatalos support nélkül.<br><b>Broadcasting Infra:</b> Saját építésű NGINX RTMP szerver és FFmpeg pipeline."
-    
+    description: "High-performance Game Server Engineering & Broadcasting.<br><b>Legacy Modernization:</b> 24/7 Enemy Territory [UPC] szerverek üzemeltetése OCI-n. Custom HD texture packs, <b>HD skin remastering (Exposure Blow Up)</b> és map script javítások GtkRadianttal.<br><b>Stability Engineering:</b> Összeomlási okok visszafejtése (reverse engineering) CoD:WaW/Plutonium környezetben. Custom bot configok és stability patchek fejlesztése hivatalos support nélkül.<br><b>Broadcasting Infra:</b> Saját építésű NGINX RTMP szerver és FFmpeg pipeline."
+     
   - date: 2023 - Jelenleg
     role: Creative Technologist
     company: AI-Enhanced Studio Workflow
@@ -50,14 +57,21 @@ experience:
     company: Magyar Állami Operaház
     years: 6
     animation: fadeIn
-    description: "Komplex színpadi rendszerek működtetése, precíz csapatmunka élő előadások során."
+    description: "Színpadi díszletek építése, bontása és logisztikai mozgatása (Raktár ↔ Színpad). Részvétel az élő előadások és próbák díszletváltásaiban, csapatmunka szoros időkeretek között."
 
-  - date: 2000 - 2016
+  - date: 2016.-
     role: Mechanikai Műszerész
-    company: GE Tungsram / 77 Elektronika Kft.
-    years: 4
+    company: 77 Elektronika Kft.
+    years: 
     animation: fadeIn
-    description: "Orvostechnikai eszközök összeszerelése, finommechanikai javítások."
+    description: "Orvostechnikai eszközök összeszerelése, finommechanikai javítások és precíziós minőségbiztosítás."
+
+  - date: 2000 - 2002
+    role: Mechanikai Műszerész
+    company: "GE Tungsram - Vákuumtechnikai Gépgyár"
+    years: 2
+    animation: fadeIn
+    description: "Komplex ipari gépsorok (pl. Audi halogénizzó gyártósor) összeszerelése és beüzemelése szakrajz alapján. Precíziós fémmegmunkálás: furatok, menetvágás, dörzsárazás és sorjázás."
 
 taxonomy:
     category: right
