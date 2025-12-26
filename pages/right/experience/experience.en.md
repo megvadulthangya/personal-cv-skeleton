@@ -17,13 +17,20 @@ experience:
     animation: fadeIn
     description: "Custom Linux OS development with automated build environment.<br><b>DevOps:</b> GitHub Actions CI/CD pipeline, automated ISO building and publishing (SourceForge API).<br><b>Product:</b> Calamares installer integration, custom 'Nordic' UX/UI design.<br><b>Stack:</b> Arch Linux, Bash, Python."
 
+  - date: 2019 - Present
+    role: Systems Architect & SecOps
+    company: "Hybrid Cloud & Zero Trust"
+    years: 6
+    animation: fadeIn
+    description: "Design and operation of a distributed, containerized infrastructure.<br><b>Public Edge (OCI):</b> Hosting latency-critical services (RTMP stream, Repo) on native Linux with kernel-level hardening.<br><b>Private Core (HomeLab):</b> 20+ Docker services (Grav, Nextcloud, Monitoring) automated with Watchtower.<br><b>Network Security:</b> Secure publishing via Cloudflare Tunnel without port forwarding (Zero Trust model)."
+
   - date: 2018 - Present
     role: Game Server Ops & Technical Modder
     company: "HomeLab to Oracle Cloud"
     years: 7
     animation: fadeIn
-    description: "High-performance game server engineering & broadcasting.<br><b>Legacy Modernization:</b> Maintaining 24/7 Enemy Territory [UPC] servers on OCI. Custom HD texture packs, <b>HD skin remastering (Exposure Blow Up)</b>, and map scripting fixes via GtkRadiant.<br><b>Stability Engineering:</b> Reverse-engineered crash causes in CoD:WaW/Plutonium environments. Developed custom bot configurations and optimization patches to stabilize server-side logic without official dev support.<br><b>Broadcasting Infra:</b> Self-hosted NGINX RTMP server and FFmpeg pipeline."
-    
+    description: "High-performance game server engineering & broadcasting.<br><b>Legacy Modernization:</b> Maintaining 24/7 Enemy Territory [UPC] servers on OCI. Custom HD texture packs, <b>HD skin remastering (Exposure Blow Up)</b>, and map scripting fixes via GtkRadiant.<br><b>Stability Engineering:</b> Reverse-engineered crash causes in CoD:WaW/Plutonium environments. Developed custom bot configurations and stability patches without official developer support.<br><b>Broadcasting Infra:</b> Self-hosted NGINX RTMP server and FFmpeg pipeline."
+
   - date: 2023 - Present
     role: Creative Technologist
     company: AI-Enhanced Studio Workflow
@@ -50,14 +57,21 @@ experience:
     company: Hungarian State Opera
     years: 6
     animation: fadeIn
-    description: "Operation of complex stage systems, precise teamwork during live performances."
+    description: "Building, dismantling, and logistical movement of stage sets (Warehouse ↔ Stage). Participation in set changes during live performances and rehearsals, requiring precise teamwork under tight deadlines."
 
-  - date: 2000 - 2016
-    role: Precision Mechanic / Instrument Technician
-    company: GE Tungsram / 77 Elektronika Kft.
-    years: 4
+  - date: 2016
+    role: Mechanical Instrument Technician
+    company: 77 Elektronika Kft.
+    years: 0.1
     animation: fadeIn
-    description: "Assembly of medical devices, precision mechanical repairs and quality assurance."
+    description: "Assembly of medical devices, precision mechanical repairs, and quality assurance."
+
+  - date: 2000 - 2002
+    role: Mechanical Instrument Technician
+    company: "GE Tungsram - Vacuum Technology Machine Factory"
+    years: 2
+    animation: fadeIn
+    description: "Assembly and commissioning of complex industrial production lines (e.g., Audi halogen bulb manufacturing line) based on technical drawings. Precision metalworking: drilling, threading, deburring, and knurling."
 
 taxonomy:
     category: right
